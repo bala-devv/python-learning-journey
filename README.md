@@ -1,6 +1,6 @@
 # Python Learning Journey
 
-Hi, I'm Bala Bhargav.
+Hi, I'm Bala.
 
 I'm currently learning Python and AI from scratch.
 
