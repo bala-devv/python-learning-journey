@@ -1,2 +1,20 @@
-# python-learning-journey
-Documenting my Python and AI learning journey.
+# Python Learning Journey
+
+Hi, I'm Bala Bhargav.
+
+I'm currently learning Python and AI from scratch.
+
+## Goals
+- Learn Python fundamentals
+- Build real-world projects
+- Learn AI and automation
+- Create a strong portfolio
+
+## Progress
+
+### Week 1
+- [ ] Python setup
+- [ ] Variables
+- [ ] Data types
+- [ ] Input and output
+
